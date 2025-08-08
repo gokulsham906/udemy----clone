@@ -489,4 +489,9 @@ font-size: 13px;
 color: #aaa;
 }
 
+@media screen and (max-width:800px) {
+    body{
+        font-size:10px;
+    }
+}
 >>>>>>> 5e6d35f (updated using position)
